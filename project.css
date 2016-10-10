@@ -1,0 +1,171 @@
+#header{
+    width: 1440;
+    height: 80px;
+    background-color: #fafafa;
+}
+#nav li{
+    font-family: "SF UI Text",SansSerif;
+    font-size: 18px;
+    float: left;
+
+}
+#nav a{
+    display: block;
+    line-height: 80px;
+    color: #999;
+}
+#header ul{
+    width: 348px;;
+    margin-right: auto;
+    margin-left: auto;
+}
+#nav a:hover{
+    text-decoration:none;
+    color: #777;
+}
+body {font-family: "SF UI Text", sans-serif;}
+
+#line{
+    width: 6px;
+    height: 170px;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333;
+}
+
+#myworks{
+    font-size: 72px;
+    margin-top: 64px;
+    font-weight: bold;
+}
+
+#hithere{
+    font-size: 36px;
+    font-weight: lighter;
+}
+#firstscreen{
+    height: 494px;
+
+}
+#ppfix{
+    width: auto;
+    height: 720px;
+    background-color: #32D0ED;
+    color: #fff;
+    margin-top: 20px;
+    position: relative;
+
+}
+#ppfiximg{
+    position: absolute;
+    left: 59%;
+    top: 13%;
+
+}
+.aa{
+    width: 631px;
+    height: 169px;
+
+    position: absolute;
+    left: 10%;
+    top: 38%;
+}
+#ppfixapp{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    display: block;
+
+}
+
+#I{
+    color: #fff;
+    font-size: 24px;
+    display:block;
+    font-weight: lighter;
+    margin-top: 31px;
+}
+a:hover{
+    text-decoration: none;
+    color: #fff;
+
+}
+.sunnybaby{
+    width: auto;
+    height: 720px;
+    background-color: #fff;
+    color: #000;
+    position: relative;
+}
+#sunnybabyimg{
+    position: absolute;
+    left: 10%;
+    top: 17%;
+    width: 375px;
+    height: 598px;
+}
+.bb{
+    width: 631px;
+    height: 169px;
+    position: absolute;
+    left: 48%;
+    top: 40%;
+}
+.bb a:hover{
+    color: #000;
+    text-decoration: none;
+}
+#sunnybaby{
+    font-size: 40px;
+    font-weight: 400;
+    display: block;
+    color: #000;
+}
+#subscribe{
+    font-size: 24px;
+    font-weight: lighter;
+    color: #000;
+    display: block;
+    margin-top: 31px;
+}
+.yitu{
+    width: auto;
+    height: 720px;
+    background: #B3E0F5;
+    color: #000;
+    position: relative;
+}
+.eden{
+    width: auto;
+    height: 720px;
+    background: #41444B;
+    color: #fff;
+    position: relative;
+}
+#edenimg{
+    position: absolute;
+    left: 10%;
+    top: 11%;
+    width: 400px;
+}
+.cc{
+    width: 631px;
+    height: 169px;
+    position: absolute;
+    left: 48%;
+    top: 40%;
+}
+#edenapp{
+    font-size: 40px;
+    font-weight: 400;
+    display: block;
+    color: #fff;
+}
+#subscribe4{
+    font-size: 24px;
+    font-weight: lighter;
+    color: #fff;
+    display: block;
+    margin-top: 31px;
+}
