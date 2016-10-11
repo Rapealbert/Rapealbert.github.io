@@ -1,0 +1,98 @@
+#header{
+    width: 1440;
+    height: 80px;
+    background-color: #fafafa;
+}
+#nav li{
+    font-family: "SF UI Text",SansSerif;
+    font-size: 18px;
+    float: left;
+
+}
+#nav a{
+    display: block;
+    line-height: 80px;
+    color: #999;
+}
+#header ul{
+    width: 348px;;
+    margin-right: auto;
+    margin-left: auto;
+}
+#nav a:hover{
+    text-decoration:none;
+    color: #777;
+}
+body {font-family: "SF UI Text", "Heiti SC",sans-serif;}
+#fir{
+    width: 960px;
+    margin-left: 17%;
+    margin-top: 114px;
+}
+#longline{
+    background: #333333;
+    width: 140px;
+    height: 6px;
+}
+#fir h1{
+    font-family: SFUIText-Bold;
+    font-size: 48px;
+    color: #333333;
+    margin-top: 32px;
+}
+#p1{
+    font-family: SFUIText-Regular;
+    font-size: 18px;
+    color: #666666;
+    line-height: 30px;
+    margin-top: 31px;
+}
+#shortline{
+    background: #333333;
+    width: 12px;
+    height: 2px;
+    margin-top: 94px;
+    margin-left: 240px;
+}
+#sec{
+    width: 960px;
+    margin-top: 94px;
+    margin-left: 17%;
+}
+#designthinking{
+    font-family: SFUIText-Bold;
+    font-size: 20px;
+    color: #333333;
+}
+li{
+    font-family: SFUIText-Regular;
+    font-size: 18px;
+    color: #666666;
+}
+#thr{
+    width: 960px;
+    margin-top: 125px;
+    margin-left: 17%;
+}
+#more{
+    font-family: SFUIText-Bold;
+    font-size: 20px;
+    color: #333333;
+}
+#p3{
+    font-family: SFUIText-Regular;
+    font-size: 18px;
+    color: #666666;
+}
+#footer{
+    width: 960px;
+    margin-top: 165px;
+    margin-left: 17%;
+}
+#share{
+    float: right;
+}
+#info{
+    width: 196px;
+    float: left;
+}
