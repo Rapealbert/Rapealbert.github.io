@@ -1,0 +1,130 @@
+#header{
+    width: 1440;
+    height: 80px;
+    background-color: #fafafa;
+}
+#nav li{
+    font-family: "SF UI Text",SansSerif;
+    font-size: 18px;
+    float: left;
+
+}
+#nav a{
+    display: block;
+    line-height: 80px;
+    color: #999;
+}
+#header ul{
+    width: 348px;;
+    margin-right: auto;
+    margin-left: auto;
+}
+#nav a:hover{
+    text-decoration:none;
+    color: #777;
+}
+body {font-family: "SF UI Text", sans-serif;}
+#name{
+    width: auto;
+    height: 360px;
+    background-color: #fafafa;position: relative;
+}
+.shortline{
+    width: 60px;
+    height: 6px;
+    background: #333333;
+    position: absolute;
+    left: 17%;
+    top: 93px;
+}
+.bigtitle{
+    font-family: SFUIText-Heavy;
+    font-size: 48px;
+    color: #333333;
+    position: absolute;
+    left: 17%;
+    margin-top: 149px;
+}
+.psubscribe{
+    font-family: SFUIText-Regular;
+    font-size: 16px;
+    color: #666666;
+    line-height: 24px;
+    position: absolute;
+    left: 17%;
+    margin-top: 216px;
+}
+#iconnext{
+    position: absolute;
+    left: 80%;
+    top:47%;
+    width: 22px;
+    height: 22px;
+    opacity:0.7;
+}
+#subtitle{
+    font-family: SFUIText-Regular;
+    font-size: 24px;
+    color: #333333;
+
+}
+
+#information{
+    width: auto;
+    height: 360px;
+    background-color: #ffffff;position: relative;
+}
+#projects{
+    width: auto;
+    height: 535px;
+    background-color: #fafafa;position: relative;
+}
+#skills{
+    width: auto;
+    height: 599px;
+    background-color: #ffffff;position: relative;
+}
+#info1{
+    float: left;
+}
+#info2{
+    position: absolute;
+    left: 27%;
+
+    float: left;
+}
+#iconinfo{
+    font-family: SFUIText-Regular;
+    font-size: 16px;
+    color: #666666;
+    line-height: 24px;
+    float: left;
+    position: absolute;
+    left: 47%;
+    margin-top: 216px;
+}
+#projects1{
+    margin-top:218px;
+}
+#projects2{
+    margin-top: 292px;
+}
+#projects3{
+    margin-top: 364px;
+}
+#projects4{
+    margin-top: 436px;
+}
+#download{
+    width: 162px;
+    height: 50px;
+    background-color: #333;
+    text-align: center;
+    color: #fff;line-height: 50px;
+    position: absolute;
+    left: 17%;
+    top:67%;
+}
+#download:hover{
+    background-color: #555;
+}
