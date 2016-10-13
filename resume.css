@@ -120,11 +120,14 @@ body {font-family: "SF UI Text", sans-serif;}
     height: 50px;
     background-color: #333;
     text-align: center;
-    color: #fff;line-height: 50px;
+    line-height: 50px;
     position: absolute;
     left: 17%;
     top:67%;
 }
 #download:hover{
     background-color: #555;
+}
+a:hover{
+    text-decoration: none;
 }
